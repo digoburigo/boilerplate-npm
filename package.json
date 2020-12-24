@@ -11,6 +11,7 @@
 		"node": "8.11.2"
 	},
 	"author": "Rodrigo",
+	"description": "A project that does something awesome",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
